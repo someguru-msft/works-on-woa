@@ -139488,5 +139488,2480 @@
     "link": "https://www.ichano.cn/download.html",
     "validation": "qualcomm",
     "lastUpdated": "2026-05-22"
+  },
+  {
+    "slug": "doctoys",
+    "name": "DocToys",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "0.1.9.0",
+    "link": "https://apps.microsoft.com/detail/9PKRL773JTFL",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "dazip",
+    "name": "DaZip",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "entertainment"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.60.0.0",
+    "link": "https://www.datools.kr/Down5_1.htm",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "pdfviewerplussignature",
+    "name": "PDF Viewer Plus Signature",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "books"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.0.2.0",
+    "link": "https://apps.microsoft.com/detail/9PLV10WHX0K3",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "smartkidsbyhappykids",
+    "name": "SmartKids by HappyKids",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "kids-family"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.0.3.0",
+    "link": "https://apps.microsoft.com/detail/9MZFCC8F0HRT",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "effectivetaxrate",
+    "name": "Effective Tax Rate",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "personalfin"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.01.0",
+    "link": "https://apps.microsoft.com/detail/9N9C688X79JD",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "clipdouser",
+    "name": "CLIPDOuser",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.3.0",
+    "link": "https://apps.microsoft.com/detail/9NR5810PSPNW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "examplify",
+    "name": "Examplify",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "10",
+    "link": "https://examsoft.com/resources/examplify-minimum-system-requirements/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "microsoftdatagathering",
+    "name": "Microsoft Data Gathering",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "10.0.1.0",
+    "link": "https://apps.microsoft.com/detail/9WZDNCRDTKMB",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "microsofteducationdelivery",
+    "name": "Microsoft Education Delivery",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "10.0.2.0",
+    "link": "https://apps.microsoft.com/detail/9NBLGGH5KL88",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "hotpatch",
+    "name": "Hotpatch",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "15.5",
+    "link": "https://techcommunity.microsoft.com/blog/windows-itpro-blog/hotpatching-now-available-for-64-bit-arm-architecture/4430949",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "digiexam",
+    "name": "DigiExam",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "19",
+    "link": "https://www.digiexam.com/windows-exam-app-download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "autodeskinventornastran",
+    "name": "AutoDesk Inventor Nastran",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "engineering"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "19.1.0.20",
+    "link": "https://www.autodesk.com/products/inventor-nastran/overview?msockid=0bd3206b9212602113ec34ce93b46167&term=1-YEAR&tab=subscription&plc=PDCOLL",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "sonicwallnetextender",
+    "name": "SonicWall NetExtender",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "vpn"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2.3",
+    "link": "https://software.sonicwall.com/NetExtender/NetExtender-arm64-10.3.4.msi",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "moviemakervideoeditor",
+    "name": "Movie Maker: Video Editor",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.3.21.0",
+    "link": "https://apps.microsoft.com/detail/9nsf023x0mqs",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "fortinetfortiedr",
+    "name": "Fortinet FortiEDR",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "security"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2023.2",
+    "link": "https://docs.fortinet.com/document/fortiedr/7.2.3/fortiedr-unified-collector-for-windows-and-macos-6-1-1-1281-release-notes/807097/fortiedr-unified-collector-for-windows-and-macos-6-1-1-1281-release-notes",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "corelwordperfectoffice2",
+    "name": "Corel WordPerfect Office",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "business"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21.0.0.81",
+    "link": "https://www.wordperfect.com/en/product/office-suite/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "cyberlinkpowerdirectoressential",
+    "name": "Cyberlink PowerDirector Essential",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "creative"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "23.0.0823.0",
+    "link": "https://www.cyberlink.com/downloads/application-manager/download_en_IN.html?r=1",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "zwcad",
+    "name": "ZWCAD",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "cad"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "25.0.305.15253",
+    "link": "https://www.zwsoft.com/product/zwcad/download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "lightspeedalert",
+    "name": "Lightspeed Alert",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.2",
+    "link": "https://www.lightspeedsystems.com/products/lightspeed-alert/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "lightspeedclassroom",
+    "name": "Lightspeed Classroom",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.2",
+    "link": "https://www.lightspeedsystems.com/products/lightspeed-classroom-management/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "lightspeedfilter",
+    "name": "Lightspeed Filter",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.2",
+    "link": "https://www.lightspeedsystems.com/products/lightspeed-filter/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "lightspeedsignal",
+    "name": "Lightspeed Signal",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.2",
+    "link": "https://www.lightspeedsystems.com/products/lightspeed-signal/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "arcticwolfaurorafocus",
+    "name": "Arctic Wolf Aurora Focus",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "endpoint-sec"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.4.2263",
+    "link": "https://docs.arcticwolf.com/en/aurora-endpoint-security/aurora-endpoint-defense-administrator-guide/release-notes-aurora-protect-and-aurora-focus-for-windows-devices-with-arm64",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "ivantienvironmentmanager",
+    "name": "Ivanti Environment Manager",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.6",
+    "link": "https://help.ivanti.com/ap/help/en_US/em/2026/Content/EM_2026.2_Release_Notes.htm",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "wechat2",
+    "name": "WeChat",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "collaboration"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.9.11.25",
+    "link": "https://apps.microsoft.com/detail/XPFCKBRNFZQ62G",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "flexerasnowinventoryagent",
+    "name": "Flexera Snow Inventory Agent",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.18.26030.3011",
+    "link": "https://docs-snow.flexera.com/other-snow-products/snow-inventory-agents-and-oracle-scanners/compatibility-matrix/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "domaintimeii",
+    "name": "Domain Time II",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "6.2",
+    "link": "https://www.greyware.com/kb/KB2026.220.asp",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "dattormm",
+    "name": "Datto RMM",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.2",
+    "link": "https://rmm.datto.com/help/de/Content/1INTRODUCTION/Requirements/AgentRequirements.htm",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "proctorio",
+    "name": "Proctorio",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "collaboration"
+    ],
+    "publisher": "",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.6",
+    "link": "https://proctorio.com/support/requirements",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-08-03"
+  },
+  {
+    "slug": "dragonfruitwriting",
+    "name": "火龙果写作 (Dragonfruit Writing)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "北京香侬慧语科技有限责任公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.17.2",
+    "link": "https://mypitaya.com/cn",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "slug": "aijinzhouaivoicechanger",
+    "name": "金舟AI变声器 (Jinzhou AI voice changer)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "audio"
+    ],
+    "publisher": "江下信息科技（惠州）有限公司",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "3.1.8",
+    "link": "https://www.callmysoft.com/voicechanger",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-15"
+  },
+  {
+    "slug": "lxmusic",
+    "name": "洛雪音乐 (LX Music)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "music"
+    ],
+    "publisher": "lyswhut",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "2.12.2",
+    "link": "https://lxmusic.toside.cn/download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "trae",
+    "name": "TRAE",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "dev-tools"
+    ],
+    "publisher": "北京引力弹弓科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.3.65",
+    "link": "https://www.trae.cn/ide/download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "slug": "i4airplayer",
+    "name": "爱思投屏 (i4Air Player)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "深圳市为爱普信息技术有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "6.2.3.10",
+    "link": "https://www.i4.cn/pro_airplayer.html?bd_vid=8413701684603016008",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-08"
+  },
+  {
+    "slug": "mvboxmvboxplayer",
+    "name": "MvBox播放器 (MvBox Player)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "music"
+    ],
+    "publisher": "北京优贝在线网络科技有限公司 (Mvbox company, lnc.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.1",
+    "link": "https://www.51vv.com/soft/soft_mvbox.shtml",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-27"
+  },
+  {
+    "slug": "jinzhouvideoformatconverter",
+    "name": "金舟视频格式转换器 (Jinzhou Video Format Converter)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "video"
+    ],
+    "publisher": "江下信息科技（惠州）有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.1.7.0",
+    "link": "https://www.softjinzhou.com/bd48424402/shipinzhuanhuan?jx=s1.p323072046.g8487065953.k652033099167.c76813773059&bd_vid=7513902922836007108",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-27"
+  },
+  {
+    "slug": "aiaityping",
+    "name": "AI打字通-免费下载打字软件 (AI Typing)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "上海七彩盾信息科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0.211",
+    "link": "https://lestore.lenovo.com/detail/L120761",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-27"
+  },
+  {
+    "slug": "timefloating",
+    "name": "时间悬浮窗 (Time Floating)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Liaoyanqing",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0",
+    "link": "https://lestore.lenovo.com/detail/L118496",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-27"
+  },
+  {
+    "slug": "360ai360aibrowser",
+    "name": "360AI浏览器 (360 AI Browser)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "三六零安全科技股份有限公司 (360 Security Technology Inc.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.1222.64",
+    "link": "https://lestore.lenovo.com/detail/L116580",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-27"
+  },
+  {
+    "slug": "meditormarkdownmeditormarkdowneditor",
+    "name": "Meditor - Markdown编辑器 (Meditor - Markdown Editor)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Abandoft Studio",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.5.1",
+    "link": "https://apps.microsoft.com/detail/9mtz4grxdks1?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "win11win11easyconfig",
+    "name": "Win11轻松设置 (Win11 EasyConfig)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Unknown",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.0",
+    "link": "https://lestore.lenovo.com/detail/L106417",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-29"
+  },
+  {
+    "slug": "chuanjizhushou",
+    "name": "传机助手 (Chuanji Zhushou)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "湖南于一科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.4.2",
+    "link": "https://shanzhua.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "jinghaomouserecorder",
+    "name": "景好鼠标录制器 (JingHao Mouse Recorder)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Unknown",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.1.0.0",
+    "link": "https://zxapi.com/shubiao/index.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "wechatminiprogram",
+    "name": "微信小程序 (WeChat Mini Program)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "web-social"
+    ],
+    "publisher": "腾讯 (Tencent)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0",
+    "link": "https://lestore.lenovo.com/detail/L118526",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "xiwangyouke",
+    "name": "希望优课 (Xiwang Youke)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "北京希望在线线上学科培训学校",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "5.12.0.331",
+    "link": "https://xue.wen-su.com/pc-download#/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "lenovomigrationassistant",
+    "name": "联想乐换机 (Lenovo Migration Assistant)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "联想 (Lenovo)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.1.4.6",
+    "link": "https://lestore.lenovo.com/detail/L80051",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-29"
+  },
+  {
+    "slug": "jiyunmouseclicker",
+    "name": "极云鼠标连点器 (Jiyun Mouse Clicker)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "南京观夏技术股份有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.2.8",
+    "link": "https://click.njguanxia.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "slug": "turbodesk",
+    "name": "讯飞绘文 (TurboDesk)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "科大讯飞股份有限公司 (iFLYTEK Co., Ltd.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.2.2.0",
+    "link": "https://turbodesk.xfyun.cn/home/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "slug": "djdjbox",
+    "name": "DJ音乐盒 (DJ Box)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "music"
+    ],
+    "publisher": "DJ娱乐网 (DJyule)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.1.0.24",
+    "link": "https://box.djyule.com/download.htm",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-02"
+  },
+  {
+    "slug": "kuruanaudioconverter",
+    "name": "酷软音频转换器 (Kuruan Audio Converter)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "audio"
+    ],
+    "publisher": "重庆酷软在线科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.7",
+    "link": "https://lestore.lenovo.com/detail/L117549",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-02"
+  },
+  {
+    "slug": "ehafo",
+    "name": "易哈佛题库 (ehafo)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "浙江知学网络科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.0.0",
+    "link": "https://www.ehafo.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-02"
+  },
+  {
+    "slug": "kuaidouliverecorderassistant",
+    "name": "快抖直播录制助手 (Kuaidou Live Recorder Assistant)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "video"
+    ],
+    "publisher": "快抖软件 (aitoolwang)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.3.8",
+    "link": "https://blog.aitoolwang.com/live/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-02"
+  },
+  {
+    "slug": "zzshijie",
+    "name": "Z视介 (Z Shijie)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "video"
+    ],
+    "publisher": "浙江新蓝网络传媒有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.2.0.0",
+    "link": "https://lestore.lenovo.com/detail/L120147",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-03"
+  },
+  {
+    "slug": "kuaidoudownloader",
+    "name": "快抖下载器 (Kuaidou Downloader)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "快抖软件 (aitoolwang)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.6.5",
+    "link": "https://lestore.lenovo.com/detail/L115772",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-03"
+  },
+  {
+    "slug": "tikeaiteleprompter",
+    "name": "提客提词器-直播提词,录课题词器 (Tike AI Teleprompter)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "沉浸科技 (tttci)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.1.0",
+    "link": "https://www.tttci.com/pc_bing_download.html?msclkid=9e0e80454abd1e810aabea5a9584b41a",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-03"
+  },
+  {
+    "slug": "kdramacircle",
+    "name": "韩剧圈 (KDrama Circle)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "entertainment"
+    ],
+    "publisher": "海南崆泉网络科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.2.1.1",
+    "link": "https://lestore.lenovo.com/detail/L121718",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-03"
+  },
+  {
+    "slug": "mitumusic",
+    "name": "米兔音乐 (Mitu Music)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "music"
+    ],
+    "publisher": "WLP",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.1",
+    "link": "https://www.qqmp3.vip/download/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "aixiaowangaiscreenshot",
+    "name": "小旺AI截图 (Xiaowang AI Screenshot)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai-tool"
+    ],
+    "publisher": "小旺截图 (wangscreenshot)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.3.2",
+    "link": "https://www.xiaowang.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-03"
+  },
+  {
+    "slug": "youkublueplayer",
+    "name": "优酷蓝影播放器 (Youku Blue Player)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "video"
+    ],
+    "publisher": "合一网络技术（北京）有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.9.0.107",
+    "link": "https://lestore.lenovo.com/detail/L112922",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "quickshot",
+    "name": "快速截屏 (Quickshot)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Unkonwn",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.0.0",
+    "link": "https://lestore.lenovo.com/detail/L106687",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "xiaoqitimer",
+    "name": "小启计时器 (Xiaoqi Timer)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "温州启肯电子科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.0",
+    "link": "https://lestore.lenovo.com/detail/L120313",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "picosmostool",
+    "name": "图片工厂 (PicosmosTool)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "暇光软件科技（上海）有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.6.0.1",
+    "link": "https://lestore.lenovo.com/detail/22811",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "slug": "xiaobaireinstall",
+    "name": "小白一键重装系统 (Xiaobai Reinstall)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "小白系统",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "12.7.49.114",
+    "link": "https://www.01xitong.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "slug": "pcpomelocameraforpc",
+    "name": "柚子相机PC版 (Pomelo Camera for PC)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "美图公司 (Meitu Inc.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.0",
+    "link": "https://lestore.lenovo.com/detail/20131",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "slug": "officeofficejinglingthreeinone",
+    "name": "Office精灵三合一 (Office Jingling Three-in-one)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "罗刚君",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "12.2",
+    "link": "https://lestore.lenovo.com/detail/L105084",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "slug": "heimaotoolbox",
+    "name": "黑猫工具箱 (Heimao ToolBox)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "黑猫工坊",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2026.5.5",
+    "link": "https://lestore.lenovo.com/detail/L106094",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "slug": "zidongjingling",
+    "name": "自动精灵 (Zidong Jingling)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "自动精灵",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.0.0",
+    "link": "https://zdjl.cc/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "slug": "zhimatimer",
+    "name": "芝麻倒计时 (Zhima Timer)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "Zhimasoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.2.30",
+    "link": "https://countdown.zhimasoft.cn/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "slug": "gaotuhighschool",
+    "name": "高途高中规划 (Gaotu HighSchool)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "高途教育科技集团有限公司 (Gaotu Techedu Inc.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "11.10.10.051",
+    "link": "https://www.gtgz.cn/download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-08"
+  },
+  {
+    "slug": "multwechat",
+    "name": "微信多开-分身多开（免费、智能） (MultWechat)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Shenzhen Super Intellectual Life Technology",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.5.1",
+    "link": "https://lestore.lenovo.com/detail/L119367",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-08"
+  },
+  {
+    "slug": "excelhomeexceletools",
+    "name": "ExcelHome易用宝 (Excel ETools)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "ExcelHome",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.10.1954.202",
+    "link": "https://yyb.excelhome.net/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "slug": "bocinternationalsecuritiesstandardedition",
+    "name": "中银证券标准版 (BOC International Securities Standard Edition)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "personalfin"
+    ],
+    "publisher": "中银国际证券股份有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.28",
+    "link": "https://lestore.lenovo.com/detail/L120890",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-08"
+  },
+  {
+    "slug": "youhoubrowser",
+    "name": "油猴浏览器 (Youhou Browser)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "泗阳县前来网络科技有限公司 (youhouzi.com)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "68.1.3",
+    "link": "https://lestore.lenovo.com/detail/26987",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-09"
+  },
+  {
+    "slug": "kutoolsforexcel",
+    "name": "Kutools for Excel",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "ExtendOffice",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "35.00.31",
+    "link": "https://www.extendoffice.com/download/kutools-for-excel.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-09"
+  },
+  {
+    "slug": "iseeiseeimageexpert",
+    "name": "iSee图片专家 (iSee Image Expert)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "重庆维阅信息技术有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "3.9.3.0",
+    "link": "https://lestore.lenovo.com/detail/711",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-09"
+  },
+  {
+    "slug": "traework",
+    "name": "TRAE Work",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "dev-tools"
+    ],
+    "publisher": "字节跳动有限公司 (ByteDance Ltd.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.1.18",
+    "link": "https://www.trae.cn/ide/download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "slug": "clawx",
+    "name": "蓝龙桌面助手 (ClawX)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "ValueCel Team from github",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.3.11",
+    "link": "https://clawx.com.cn/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "slug": "tudianwallpaper",
+    "name": "图点壁纸 (Tudian Wallpaper)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "ZHANG RENZEHNG",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.0",
+    "link": "https://apps.microsoft.com/detail/9pln0qlq8r7t?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-11"
+  },
+  {
+    "slug": "livewallpaperhddesktopwallpapers",
+    "name": "动态壁纸-高清桌面壁纸 (Live Wallpaper - HD Desktop Wallpapers)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "上海瑢芮科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.2.0",
+    "link": "https://apps.microsoft.com/detail/9pdhdpcdmtc7?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-11"
+  },
+  {
+    "slug": "bilup",
+    "name": "Bilup",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "video"
+    ],
+    "publisher": "RyaninCn11",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.5.2.0",
+    "link": "https://apps.microsoft.com/detail/9pbcgh64l0v5?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-11"
+  },
+  {
+    "slug": "pcbetaapp",
+    "name": "PCBETA_APP",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "web-social"
+    ],
+    "publisher": "Hello Stella",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.12.0",
+    "link": "https://apps.microsoft.com/detail/9p6s3nl8g5l4?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-11"
+  },
+  {
+    "slug": "maphelper",
+    "name": "地图帮 (MapHelper)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "nav"
+    ],
+    "publisher": "人文帮科技服务工作室",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.9.6.0",
+    "link": "https://apps.microsoft.com/detail/9nlswtl3jnsl?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-11"
+  },
+  {
+    "slug": "mouseclickgoandmouseclickgo",
+    "name": "Mouse Click Go - 鼠标连点器&自动点击 (Mouse Click Go)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Qubit Tech",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.0.7.0",
+    "link": "https://apps.microsoft.com/detail/9pgr9gfnq0ws?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "vantagevantagebrowser",
+    "name": "Vantage浏览器 (Vantage Browser)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "ASYS Technology",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "150.0.2.0",
+    "link": "https://apps.microsoft.com/detail/9pfqr6scsz4x?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "countdownfloating",
+    "name": "倒计时悬浮窗 (Countdown Floating)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "jlqwer",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.3.3.0",
+    "link": "https://apps.microsoft.com/detail/9ntf38dxnpsr?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "livewallpaperdynamicdesktopbackgroundchanger",
+    "name": "动态壁纸 - 桌面背景自动切换 (Live Wallpaper - Dynamic Desktop Background Changer)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "FreeCreativityApps",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.4.0",
+    "link": "https://apps.microsoft.com/detail/9nksqvs63r66?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "floatingtimer",
+    "name": "浮窗计时器 (Floating Timer)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "jlqwer",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.3.1.0",
+    "link": "https://apps.microsoft.com/detail/9pm7q319wf31?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "aiwhaleraiassistant",
+    "name": "鲸鱼AI助手 (Whaler AI Assistant)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "鲸鱼AI助手",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.2.1.0",
+    "link": "https://apps.microsoft.com/detail/9ntkdwdqv7wf?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "slug": "medicalstatisticsassistantmedicalstatisticsassistant",
+    "name": "医学统计助手 - Medical Statistics Assistant (Medical Statistics Assistant)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "healthcare"
+    ],
+    "publisher": "statsas.com",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "16.1.5.0",
+    "link": "https://apps.microsoft.com/detail/9p8wlsml3w7x?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-15"
+  },
+  {
+    "slug": "kxiaokwallpaper",
+    "name": "小K壁纸 (Xiao K Wallpaper)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "麦麦提艾力·阿卜杜凯尤木",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.1.0.0",
+    "link": "https://apps.microsoft.com/detail/9plrq78ptfps?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-15"
+  },
+  {
+    "slug": "wordmarker",
+    "name": "我的马克 (WordMarker)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "CarrotWu",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.0.0",
+    "link": "https://apps.microsoft.com/detail/9p36z3hsbczg?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-16"
+  },
+  {
+    "slug": "chinesebiblepro",
+    "name": "中文圣经专业版 (Chinese Bible Pro)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "books"
+    ],
+    "publisher": "Nyanzi Tech",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.0",
+    "link": "https://apps.microsoft.com/detail/9pmpm48rqgzx?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-16"
+  },
+  {
+    "slug": "gappforgoogleservices",
+    "name": "G App - For (Google) Services",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "browsers"
+    ],
+    "publisher": "Launchpeak Techs",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.3.0",
+    "link": "https://apps.microsoft.com/detail/9mtd0vt56hh9?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-16"
+  },
+  {
+    "slug": "zipandrar",
+    "name": "ZIP & RAR",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Wuxxu s.r.o",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "1.0.0.0",
+    "link": "https://apps.microsoft.com/detail/9nlzqt2b4xx6?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-16"
+  },
+  {
+    "slug": "xduplicates",
+    "name": "xDuplicates",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "xAPPSs",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.216.0",
+    "link": "https://apps.microsoft.com/detail/9n3c7fzdbs2d?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "lanscanlitelanscanlite",
+    "name": "Lan Scan Lite - 局域网扫描仪 (Lan Scan Lite)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "it"
+    ],
+    "publisher": "Jason_vr3",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.22.0",
+    "link": "https://apps.microsoft.com/detail/9nfx7brxnt2c?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "mindmap",
+    "name": "思绪思维导图 (MindMap)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "街角小林",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.19.0.0",
+    "link": "https://apps.microsoft.com/detail/9p58vg94khcq?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "giffinelivelyfreeeasylivewallpaper",
+    "name": "精细动态壁纸-易用免费的动态壁纸-支持视频网页GIF (Fine Lively - Free Easy Live Wallpaper)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Fine-Grain Studio",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.5.0",
+    "link": "https://apps.microsoft.com/detail/9mtv07khw832?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "ayeaiayeforwin",
+    "name": "Aye：浏览器里的AI实习生 (Aye for Win)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "南京欧米软件开发有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.9.0",
+    "link": "https://apps.microsoft.com/detail/9ndw5t4cs476?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "h3ch3cwhiteboard",
+    "name": "H3C白板 (H3C WhiteBoard)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "collaboration"
+    ],
+    "publisher": "新华三智能终端有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.4.0",
+    "link": "https://apps.microsoft.com/detail/9n64g5n0xkmk?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-18"
+  },
+  {
+    "slug": "desktopsnapdesktopsnapdesktopiconlayoutbackupandrestore",
+    "name": "DesktopSnap - 桌面图标布局备份与恢复 (DesktopSnap - Desktop Icon Layout Backup & Restore)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Liu Houliang",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.4.0",
+    "link": "https://apps.microsoft.com/detail/9n88rj6d0js3?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-18"
+  },
+  {
+    "slug": "dunote",
+    "name": "都记 (DuNote)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "都说不易",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0.0",
+    "link": "https://apps.microsoft.com/detail/9p9skdtrnjbx?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-18"
+  },
+  {
+    "slug": "holdonholdonclipboard",
+    "name": "HoldOn 剪贴板 (HoldOn Clipboard)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "utils-tools"
+    ],
+    "publisher": "Y.Q",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.1.0",
+    "link": "https://apps.microsoft.com/detail/9p1s4d8rjtv1?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-18"
+  },
+  {
+    "slug": "geometrycatteachingassistantsoftware",
+    "name": "几何猫教学辅助软件 (Geometry Cat Teaching Assistant Software)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "education"
+    ],
+    "publisher": "FANXIAOFENG",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.3.0",
+    "link": "https://apps.microsoft.com/detail/9pmmnfc1nkm8?hl=zh&gl=CN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-18"
+  },
+  {
+    "slug": "jiuwenswarm",
+    "name": "JiuwenSwarm",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai-tool"
+    ],
+    "publisher": "华为云计算技术有限公司 (Huawei Cloud Computing Technologies Co., Ltd.)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "0.2.1",
+    "link": "https://www.openjiuwen.com",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "slug": "hiclaw",
+    "name": "HiClaw",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai-tool"
+    ],
+    "publisher": "阿里巴巴 (Alibaba)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0",
+    "link": "https://hiclaw.io/#quickstart",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "slug": "wenxiaobai",
+    "name": "问小白 (wenxiaobai)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "北京元石科技有限公司",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.7",
+    "link": "https://www.wenxiaobai.com/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "slug": "dumate",
+    "name": "百度搭子 (DuMate)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "ai"
+    ],
+    "publisher": "百度 (Baidu)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.47",
+    "link": "https://www.dumate.cn/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-16"
+  },
+  {
+    "slug": "qzoneqzonealbumuploadtool",
+    "name": "Qzone相册极速上传工具 (Qzone Album Upload Tool)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "photo"
+    ],
+    "publisher": "腾讯 (Tencent)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "NA",
+    "link": "https://qzs.qq.com/qzone/photo/zone/upload/setupNew.html?from=oldsetup",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-06-17"
+  },
+  {
+    "slug": "avevaedge",
+    "name": "AVEVA Edge",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "AVEVA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2023.1.0.0",
+    "link": "https://www.aveva.com/en/products/edge/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "ignitionscada",
+    "name": "Ignition SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Inductive Automation",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.1.47",
+    "link": "Download Ignition by Inductive Automation",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "siemenstiaportal",
+    "name": "Siemens TIA Portal",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "v20",
+    "link": "https://support.industry.siemens.com/cs/document/109963850/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v20-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticstep7",
+    "name": "SIMATIC STEP 7",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticstep7safety",
+    "name": "SIMATIC STEP 7 Safety",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticscadawincc",
+    "name": "SIMATIC SCADA (WinCC)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "21",
+    "link": "https://support.industry.siemens.com/cs/document/109989774/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v21-trial-download?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "simaticwinccunifiedpcruntime",
+    "name": "SIMATIC WinCC Unified PC Runtime",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Siemens",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7",
+    "link": "https://support.industry.siemens.com/cs/document/109991137/simatic-wincc-unified-pc-runtime-v21-simulation-trial?dti=0&lc=en-WW",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "daqfactory",
+    "name": "DAQFactory",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "AzeoTech",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "18.1",
+    "link": "https://www.azeotech.com/downloads.php",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "frameworxv10",
+    "name": "FrameworX v10",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Tatsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "10.5",
+    "link": "https://tatsoft.com/fx-101/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "laquisscada",
+    "name": "Laquis SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Laquis",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.5",
+    "link": "http://www.laquis.com/downloads.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "rapidscada",
+    "name": "Rapid SCADA",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Rapid SCADA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "6.4.6",
+    "link": "https://rapidscada.org/download-all-files/user-profile/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "microsoftsqlserver2025",
+    "name": "Microsoft SQL Server 2025",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Microsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "17.0.1000.7",
+    "link": "https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2025?view=sql-server-ver16",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "deviceonsqmanager",
+    "name": "DeviceOn SQ Manager",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "HiveMQ",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "4",
+    "link": "https://www.hivemq.com/downloads/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "hivemq",
+    "name": "HiveMQ",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Tatsoft",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.22",
+    "link": "https://www.tatsoft.com/downloads/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "scytecdataxchangeservice",
+    "name": "Scytec DataXchange Service",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "Scytec",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "14.0.0.0",
+    "link": "https://scytec.com/download/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "prtg",
+    "name": "PRTG",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "Paessler",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.2.116.1542",
+    "link": "https://www.paessler.com/prtg",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "emqxedge",
+    "name": "EMQX Edge",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "EMX",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.0",
+    "link": "https://www.emqx.com/en/products/emqx-edge",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "winloglite",
+    "name": "Winlog Lite",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Sielco Sistemi",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.50.0",
+    "link": "https://www.sielcosistemi.com/en/download/public/winlog_lite.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "winlogevo",
+    "name": "Winlog Evo",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Sielco Sistemi",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.0.32.0",
+    "link": "https://www.sielcosistemi.com/en/download/public/winlog_evo.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "reliance5",
+    "name": "Reliance 5",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Reliance",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "5.0.2",
+    "link": "https://www.reliance-scada.com/en/main",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "indraworks",
+    "name": "IndraWorks",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Bosch Rexroth",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.0.1156.0",
+    "link": "https://www.boschrexroth.com/en/us/search.html?q=indraworks&origin=software_search&dnavs=DC_mediatype%3Adc_media_type_software&num=10&s=download",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "webvisit6pro",
+    "name": "Webvisit 6 Pro",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Phoenix Contact",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.90.3146.0",
+    "link": "https://www.phoenixcontact.com/en-us/products/visualization-webvisit-6-pro-2700949",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagogodoctor",
+    "name": "WAGO GoDoctor",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.005",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagozukene3interface",
+    "name": "WAGO-ZUKEN E3-Interface",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.16",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "wagoeplanintewrface64bit",
+    "name": "WAGO-EPLAN-Intewrface 64Bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "WAGO",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.1.6",
+    "link": "https://www.wago.com/us/search?f=%3Afacet_download_docCategory1%3ADL_56%3Afacet_download_docCategory1%3ADL_59%3Afacet_download_docCategory1%3ADL_8%3Afacet_download_docCategory1%3ADL_57%3Afacet_download_docCategory1%3ADL_58%3Afacet_download_docCategory2%3ADL_12%3AresultType%3Adownload&sort=relevance&pageSize=20",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "opcuaclients",
+    "name": "OPC UA Clients",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Unified Automation",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2.0.2-665",
+    "link": "https://www.unified-automation.com/downloads.html",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "shrelock73264bit",
+    "name": "Shrelock 7 32/64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.30.00",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "sherlock864bit",
+    "name": "Sherlock 8 64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "8.40.00",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "inspect3264bit",
+    "name": "iNspect 32/64-bit",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Teledyne DALSA",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "2281",
+    "link": "https://www.teledynedalsa.com/en/SUPPORT/downloads-center/application-software/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "visiondevelopmentmodule",
+    "name": "Vision Development Module",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.vision-development-module.html#590238",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "teststand",
+    "name": "Test Stand",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.teststand.html#585885",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "systemlinkclient",
+    "name": "SystemLink Client",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "it"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.systemlink-client.html#590005",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "instrumentstudio",
+    "name": "InstrumentStudio",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "National Instruments (NI)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "26.3.0f146",
+    "link": "https://www.ni.com/en/support/downloads/software-products/download.instrumentstudio.html#590029",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "commandexpert",
+    "name": "Command Expert",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "Keysight",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.13.10",
+    "link": "https://www.keysight.com/us/en/lib/software-detail/computer-software/command-expert-downloads-2151326.html?jmpid=zzfindcommandexpert",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "moviconnext",
+    "name": "Movicon.NExT",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "Emerson",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.4.821.56",
+    "link": "https://go.emersonautomation.com/movicon-sftwr-dwnld",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "moviconproconnext",
+    "name": "Movicon Pro.Connext",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "Emerson",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.4.821",
+    "link": "https://go.emersonautomation.com/connext-sftwr-dwnld-EN",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "automationbuilder",
+    "name": "Automation Builder",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "engineering"
+    ],
+    "publisher": "ABB",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.5.0.2712",
+    "link": "https://www.abb.com/global/en/areas/motion/digital-tools/automation-builder",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficyifix",
+    "name": "Proficy iFIX",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "7.10.0000",
+    "link": "https://www.gevernova.com/software/product-trials/ifix-hmi-scada",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficycimplitity",
+    "name": "Proficy CIMPLITITY",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "industrial automation"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "12.10.54287",
+    "link": "https://www.gevernova.com/software/product-trials/cimplicity-hmi-scada",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "proficyhistorian",
+    "name": "Proficy Historian",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "database"
+    ],
+    "publisher": "GE Vernova",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "1.0.0.1",
+    "link": "https://www.gevernova.com/software/product-trials/proficy-historian",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "mamidian",
+    "name": "Mamidian (妈咪店)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "Mamidian (妈咪店)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "",
+    "link": "https://www.mamidian.com/cooperation",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "tongxi",
+    "name": "Tongxi (通洗)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "Tongxi (通洗)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "",
+    "link": "https://www.tongxi.cn/",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "pospalpccashierpc",
+    "name": "Pospal PC Cashier (银豹PC收银)",
+    "type": "application",
+    "icon": "",
+    "categories": [
+      "iot",
+      "retail"
+    ],
+    "publisher": "PosPal (银豹)",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "4.71.102.5184",
+    "link": "https://www.pospal.cn/downcenter.aspx",
+    "validation": "qualcomm",
+    "lastUpdated": "2026-07-22"
   }
 ]
