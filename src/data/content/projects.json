@@ -36916,11 +36916,13 @@
     ],
     "publisher": "SkyXoft Technologies, Inc.",
     "compatibility": "yes",
-    "emulationType": "emulation",
+    "emulationType": "native",
     "versionFrom": "2.0.100.0",
-    "link": "https://apps.microsoft.com/detail/9NR9HSPRPVDF",
-    "validation": "qualcomm",
-    "lastUpdated": "2026-03-02"
+    "link": "https://www.expirationreminder.com/",
+    "validation": "developer",
+    "lastUpdated": "2026-09-02",
+    "notes": "Native Arm64 build - runs natively on Windows on Arm devices, no x86/x64 emulation. Expiration Reminder centralizes tracking of expiring documents (licenses, certifications, insurance, contracts, and software) and sends automated renewal reminders. Install from the Microsoft Store: https://apps.microsoft.com/detail/9NR9HSPRPVDF",
+    "shouldShowNotes": true
   },
   {
     "slug": "explorecolors",
