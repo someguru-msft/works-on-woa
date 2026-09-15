@@ -10,6 +10,7 @@ import { ProjectTable } from "@/components/Common/ProjectTable";
 import { Pagination } from "@/components/Common/Pagination";
 import { useProjects } from "@/data/hooks/useProjects";
 import { useCategories } from "@/data/hooks/useCategories";
+import { useValidations } from "@/data/hooks/useValidations";
 import { usePublishers } from "@/data/hooks/usePublishers";
 import {
   filtersFromSearchParams,
@@ -17,6 +18,7 @@ import {
   activeFiltersFromProjectFilters,
 } from "@/utils/filter-params";
 import type { ProjectFilters, ProjectType } from "@/data/types";
+import { VALIDATION_FILTER_OPTIONS } from "@/utils/validation";
 import { trackFilterUsage } from "@/lib/telemetry";
 
 interface ProjectsListProps {
@@ -41,6 +43,7 @@ export function ProjectsList({ type }: ProjectsListProps) {
   }));
 
   const { data: categoriesData } = useCategories(type);
+  const { data: validationsData } = useValidations(type);
   const { data: publishersData } = usePublishers(undefined, 1, 1000);
   const { data, isLoading } = useProjects(filters, page, PAGE_SIZE);
 
@@ -127,6 +130,16 @@ export function ProjectsList({ type }: ProjectsListProps) {
       return a.name.localeCompare(b.name);
     });
 
+  const activeFilters = activeFiltersFromProjectFilters(filters);
+
+  // Only offer verification options that exist in the data, so a new validator
+  // (e.g. "nvidia") appears automatically once entries are published.
+  const validationOptions = VALIDATION_FILTER_OPTIONS.filter(
+    (v) =>
+      (validationsData ?? []).includes(v) ||
+      (activeFilters.validation ?? []).includes(v)
+  );
+
   const filterConfig = [
     {
       label: t("filters.category"),
@@ -164,6 +177,14 @@ export function ProjectsList({ type }: ProjectsListProps) {
       })),
     },
     {
+      label: t("filters.validation"),
+      key: "validation",
+      options: validationOptions.map((v) => ({
+        label: t(`validation.names.${v}`),
+        value: v,
+      })),
+    },
+    {
       label: t("filters.lastUpdated"),
       key: "lastUpdated",
       options: [
@@ -193,7 +214,7 @@ export function ProjectsList({ type }: ProjectsListProps) {
       <div className="mt-6">
         <FilterBar
           filters={filterConfig}
-          activeFilters={activeFiltersFromProjectFilters(filters)}
+          activeFilters={activeFilters}
           onFilterChange={handleFilterChange}
           onClearAll={handleClearAll}
           className="justify-center"

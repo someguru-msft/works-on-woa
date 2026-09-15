@@ -29,7 +29,6 @@ export type SortField =
   | "type"
   | "publisher"
   | "category"
-  | "validation"
   | "lastUpdated";
 
 export type SortDirection = "asc" | "desc";
@@ -99,7 +98,6 @@ const COLUMN_META: Record<
   },
   validation: {
     i18nKey: "popularApps.columns.validation",
-    sortField: "validation",
   },
   updated: {
     i18nKey: "popularApps.columns.updated",
@@ -128,8 +126,6 @@ export function sortProjects(
           return (p.publisher || "").toLowerCase();
         case "category":
           return (p.categories[0] || "").toLowerCase();
-        case "validation":
-          return p.validation;
         case "lastUpdated":
           return p.lastUpdated;
       }

@@ -4,6 +4,7 @@ export type EmulationType = "native" | "emulation" | "unknown" | "na";
 export type Validation =
   | "microsoft"
   | "qualcomm"
+  | "nvidia"
   | "developer"
   | "community"
   | "unverified";
@@ -20,7 +21,7 @@ export interface Project {
   compatibilityDetails?: string;
   versionFrom?: string;
   link?: string;
-  validation: Validation;
+  validation: Validation[];
   lastUpdated: string;
   notes: string;
   shouldShowNotes: boolean;
@@ -34,6 +35,7 @@ export interface ProjectFilters {
   compatibility?: Compatibility | Compatibility[];
   emulationType?: EmulationType | EmulationType[];
   publisher?: string | string[];
+  validation?: Validation | Validation[];
   lastUpdated?: string | string[];
   search?: string;
   isMicrosoftApp?: boolean;
