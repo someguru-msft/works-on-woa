@@ -55056,15 +55056,15 @@
     "type": "application",
     "icon": "application-icon-white.svg",
     "categories": [
-      "education"
+      "engineering"
     ],
-    "publisher": "",
+    "publisher": "JMP Statistical Discovery, LLC",
     "compatibility": "yes",
     "emulationType": "emulation",
-    "versionFrom": "18.2.1",
+    "versionFrom": "19",
     "link": "https://www.jmp.com/en/home",
     "validation": "qualcomm",
-    "lastUpdated": "2026-03-02"
+    "lastUpdated": "2026-09-02"
   },
   {
     "slug": "jobseeker",
