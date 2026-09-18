@@ -141965,5 +141965,77 @@
     "link": "https://www.pospal.cn/downcenter.aspx",
     "validation": "qualcomm",
     "lastUpdated": "2026-07-22"
+  },
+  {
+    "slug": "goguardian",
+    "name": "GoGuardian",
+    "type": "application",
+    "icon": "goguardian.png",
+    "categories": [
+      "education"
+    ],
+    "publisher": "GoGuardian",
+    "compatibility": "yes",
+    "emulationType": "emulation",
+    "versionFrom": "",
+    "link": "https://support.goguardian.com/s/article/What-is-the-GoGuardian-App",
+    "validation": "microsoft",
+    "lastUpdated": "2026-09-18",
+    "notes": "",
+    "shouldShowNotes": false
+  },
+  {
+    "slug": "pan-cortex",
+    "name": "PAN Cortex",
+    "type": "application",
+    "icon": "pan-cortex.png",
+    "categories": [
+      "vpn"
+    ],
+    "publisher": "Palo Alto Networks Inc",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "",
+    "link": "https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/Cortex-XDR-4.x-Release-Notes/Release-Information",
+    "validation": "microsoft",
+    "lastUpdated": "2026-09-18",
+    "notes": "",
+    "shouldShowNotes": false
+  },
+  {
+    "slug": "texthelp-read-write",
+    "name": "Texthelp Read&Write",
+    "type": "application",
+    "icon": "texthelp-read-write.svg",
+    "categories": [
+      "prod"
+    ],
+    "publisher": "TextHelp",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "",
+    "link": "https://support.texthelp.com/help/system-requirements",
+    "validation": "microsoft",
+    "lastUpdated": "2026-09-18",
+    "notes": "",
+    "shouldShowNotes": false
+  },
+  {
+    "slug": "fortiedr-unified-collector",
+    "name": "FortiEDR Unified Collector",
+    "type": "application",
+    "icon": "fortiedr-unified-collector.png",
+    "categories": [
+      "vpn"
+    ],
+    "publisher": "Fortinet",
+    "compatibility": "yes",
+    "emulationType": "native",
+    "versionFrom": "",
+    "link": "https://docs.fortinet.com/document/fortiedr/7.2.0/fortiedr-unified-collector-for-windows-and-macos-6-1-1-1281-release-notes/172759/whats-new",
+    "validation": "microsoft",
+    "lastUpdated": "2026-09-18",
+    "notes": "",
+    "shouldShowNotes": false
   }
 ]
